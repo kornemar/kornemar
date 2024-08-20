@@ -33,4 +33,8 @@ Here are some ideas to get you started:
 - **Office Tools & File Management:** MS Office, SharePoint, Google Workspace, Google Drive, Dropbox, MicroStrategy, 1C, SAP
 
 ## Contact Me
-📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marinakorneva/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinakorneva/)
+
+<!--## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/marinakorneva/))
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://public.tableau.com/app/profile/marina.korneva/vizzes)) -->
