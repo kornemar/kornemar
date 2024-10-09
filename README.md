@@ -1,4 +1,4 @@
-![Header Image](https://i.imgur.com/BnKyfkf.png)
+![Header Image](https://i.imgur.com/m8RRTi8.png)
 
 ## Hi there 👋
 
