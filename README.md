@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - **📈 Aspiring Data Analyst** seeking to drive data insights
 - 📍 Residing in **Split, Croatia**
 - **🎓 Turing College** Graduate | Data Analytics (Sep 2023 – Sep 2024)
-- 💻 Skilled in **SQL, Python, Data Visualization**
+- 💻 Skilled in **SQL, Google BigQuery, Python, Data Visualization and Tableu**
 - **💫 Interests:**
     - 🌍 Travelling
     - 🏅 Watching sports
